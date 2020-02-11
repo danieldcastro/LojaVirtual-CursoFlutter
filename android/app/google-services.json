@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "84110705731",
+    "firebase_url": "https://lojaflutter-f25f3.firebaseio.com",
+    "project_id": "lojaflutter-f25f3",
+    "storage_bucket": "lojaflutter-f25f3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:84110705731:android:d375edc1febabb777e00f6",
+        "android_client_info": {
+          "package_name": "br.com.castro.loja_virtual"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "84110705731-8snh77i5rceglq8ep0ojuu2rcpc3u23o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQwydCiJuYUy2DUNtX3bGCeSdDkRoFunU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "84110705731-8snh77i5rceglq8ep0ojuu2rcpc3u23o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
